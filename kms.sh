@@ -3,7 +3,7 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
 
 echo "#============================================================================="
-echo "# System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+"
+echo "# 支持系统: CentOS 6+/Debian 6+/Ubuntu 14.04+"
 echo "# Description: windows系列的VL版本KMS激活服务端一键搭建)"
 echo "# Author:Krito"
 echo "# Blog:https://krito.me"
@@ -236,7 +236,7 @@ check_uninstall() {
 		;;
 	esac
 }
-echo -e "  vlmcsd服务端 一键管理脚本 ${Red_font_prefix}Powered By Mrxn.Net${Font_color_suffix}
+echo -e "  vlmcsd服务端 一键管理脚本 ${Red_font_prefix}Powered By K${Font_color_suffix}
 
   ${Green_font_prefix}1.${Font_color_suffix} 安装vlmcsd服务端
   ${Green_font_prefix}2.${Font_color_suffix} 查看vlmcsd的状态
