@@ -4,7 +4,7 @@ export PATH
 
 echo "#============================================================================="
 echo "# System Required: CentOS 6+/Debian 6+/Ubuntu 14.04+"
-echo "# Description: deploy the vlmcsd server(windows系列的VL版本KMS激活服务端一键搭建)"
+echo "# Description: windows系列的VL版本KMS激活服务端一键搭建)"
 echo "# Author:Krito"
 echo "# Blog:https://krito.me"
 echo "# kms_server:https://kms.krito.me"
